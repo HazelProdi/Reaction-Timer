@@ -11,7 +11,7 @@
 
 <script>
 export default {
-    //props
+    //propsss
     props: ['score'],
     data() {
         return {
